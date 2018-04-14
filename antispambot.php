@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Anti-Spambot Email Shortcode
-Version: 1.1.1
+Version: 1.1.2
 Description: Obfuscation of email via the <code>[email]...[/email]</code> shortcode syntax using built-in <a href="http://codex.wordpress.org/Function_Reference/antispambot#Examples" target="_blank">Wordpress Codex</a> functionality.
 Author: Robert Peake
 Author URI: http://www.peakepro.com/

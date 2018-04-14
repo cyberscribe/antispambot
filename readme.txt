@@ -2,8 +2,8 @@
 Contributors: robertpeake, robert.peake
 Tags: comments, spam
 Requires at least: 3.0.1
-Tested up to: 4.7
-Stable tag: 1.1.1
+Tested up to: 4.9.5
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,6 +41,7 @@ The only foolproof way to ensure email addresses do not get harvested from a web
 
 == Changelog ==
 
+ * 1.1.2 - Tested with WordPress 4.9.5
  * 1.1. - Added support for ?subject= strings, nolink= shortcode attribute (just print) and linktext= shortcode attribute to specify link text
  * 1.0 - upgraded to stable version after eight months in the wild
  * 0.1-alpha - Initial release
